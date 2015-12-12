@@ -1,0 +1,31 @@
+{
+    "name": "designinlife/l3-base",
+    "description": "An abstract base-framework for HTTP/Restful/Socket/Process environment.",
+    "keywords": [
+        "l3",
+        "framework",
+        "oop"
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lei Lee",
+            "email": "web.developer.network@gmail.com",
+            "homepage": "http://l3.iooogle.com/docs/"
+        }
+    ],
+    "require": {
+        "php": "~5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "L3\\Base\\": "src"
+        }
+    },
+    "support": {
+        "issues": "https://github.com/designinlife/l3-base/issues",
+        "source": "https://github.com/designinlife/l3-base",
+        "docs": "http://docs.iooogle.com/"
+    }
+}
