@@ -6,7 +6,7 @@
         "framework",
         "oop"
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
